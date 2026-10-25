@@ -1,0 +1,20 @@
+{
+  "name": "barockok-skills",
+  "owner": {
+    "name": "Zidni Mubarok",
+    "email": "zidmubarock@gmail.com"
+  },
+  "metadata": {
+    "description": "Agent skills by barockok for Claude Code and other agents."
+  },
+  "plugins": [
+    {
+      "name": "video-analyze",
+      "source": "./plugins/video-analyze",
+      "description": "Watch a video (URL or file): timestamped transcript + keyframes + contact sheets, then a structured analysis you can query. macOS and Linux.",
+      "version": "0.2.0",
+      "category": "productivity",
+      "keywords": ["video", "transcript", "whisper", "keyframes", "youtube", "instagram", "tiktok"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "video-analyze",
+  "version": "0.2.0",
+  "description": "Watch a video (URL or file): timestamped transcript + keyframes + contact sheets, then a structured analysis you can query. macOS and Linux.",
+  "author": {
+    "name": "Zidni Mubarok",
+    "email": "zidmubarock@gmail.com"
+  },
+  "homepage": "https://github.com/barockok/claude-skills",
+  "repository": "https://github.com/barockok/claude-skills",
+  "license": "MIT",
+  "keywords": ["video", "transcript", "whisper", "keyframes"]
+}
